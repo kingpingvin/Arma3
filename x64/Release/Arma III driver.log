@@ -1,0 +1,57 @@
+﻿  d3Console.cpp
+d3Console.cpp(59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(62): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(63): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(64): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(69): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(70): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(73): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(74): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(77): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(78): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(81): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(88): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(92): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(94): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(96): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(102): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(116): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(123): warning C4244: 'argument': conversion from 'SIZE_T' to 'int', possible loss of data
+d3Console.cpp(123): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(124): warning C4244: 'argument': conversion from 'SIZE_T' to 'int', possible loss of data
+d3Console.cpp(124): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(130): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+d3Console.cpp(131): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  D3D9_Menu.cpp
+D3D9_Menu.cpp(25): error C2704: 'D3D9Menu::calculateWidth': __va_start intrinsic only allowed in varargs
+  Drawer.cpp
+c:\users\loke\desktop\arma3 hack\Engine.h(331): warning C4244: 'return': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+c:\users\loke\desktop\arma3 hack\Engine.h(393): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\loke\desktop\arma3 hack\Engine.h(796): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+c:\users\loke\desktop\arma3 hack\Engine.h(840): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+  driverManager.cpp
+driverManager.cpp(154): warning C4311: 'type cast': pointer truncation from 'HINSTANCE' to 'INT'
+driverManager.cpp(154): warning C4302: 'type cast': truncation from 'HINSTANCE' to 'INT'
+  Entity.cpp
+  main.cpp
+c:\users\loke\desktop\arma3 hack\Engine.h(331): warning C4244: 'return': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+c:\users\loke\desktop\arma3 hack\Engine.h(393): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\loke\desktop\arma3 hack\Engine.h(796): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+c:\users\loke\desktop\arma3 hack\Engine.h(840): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+main.cpp(165): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+  Memory.cpp
+Memory.cpp(34): warning C4244: '=': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+Memory.cpp(382): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+Memory.cpp(405): warning C4244: 'argument': conversion from 'SIZE_T' to 'ULONG', possible loss of data
+  renderManager.cpp
+renderManager.cpp(20): warning C4311: 'type cast': pointer truncation from 'LPDIRECT3D9' to 'HRESULT'
+renderManager.cpp(20): warning C4302: 'type cast': truncation from 'LPDIRECT3D9' to 'HRESULT'
+renderManager.cpp(78): error C2704: 'rManager::calculateWidth': __va_start intrinsic only allowed in varargs
+  Setter.cpp
+c:\users\loke\desktop\arma3 hack\Engine.h(331): warning C4244: 'return': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+c:\users\loke\desktop\arma3 hack\Engine.h(393): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+c:\users\loke\desktop\arma3 hack\Engine.h(796): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+c:\users\loke\desktop\arma3 hack\Engine.h(840): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
+Setter.cpp(374): warning C4244: 'argument': conversion from 'SIZE_T' to 'DWORD', possible loss of data
